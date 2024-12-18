@@ -1,0 +1,12 @@
+{
+    "Vacation": {
+        "target_amount": 2000.0,
+        "months_to_save": 6,
+        "saved_amount": 0
+    },
+    "Emergency Fund": {
+        "target_amount": 15000.0,
+        "months_to_save": 9,
+        "saved_amount": 0
+    }
+}
